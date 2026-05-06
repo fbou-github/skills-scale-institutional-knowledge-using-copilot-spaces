@@ -3,6 +3,8 @@
 ## Purpose
 Turn an approved initiative into an actionable plan and backlog for delivery.
 
+> **See also:** [Roles and Personas](octoacme-roles-and-personas.md) | [Roles & Personas Interaction Matrix](octoacme-roles-and-personas-interaction-matrix.md)
+
 ## Objectives
 - Break work into shippable increments
 - Identify dependencies and risks

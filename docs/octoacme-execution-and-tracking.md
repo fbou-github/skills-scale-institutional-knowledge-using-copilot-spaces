@@ -3,6 +3,8 @@
 ## Purpose
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
+> **See also:** [Roles and Personas](octoacme-roles-and-personas.md) | [Roles & Personas Interaction Matrix](octoacme-roles-and-personas-interaction-matrix.md)
+
 ## Team Rhythm
 - Daily standups (15 min) — focus on progress, blockers, dependencies
 - Weekly delivery sync — show progress, updates, and flagged risks
